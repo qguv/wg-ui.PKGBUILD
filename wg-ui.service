@@ -1,0 +1,10 @@
+[Unit]
+Description=A basic, self-contained management service for WireGuard with a self-serve web UI.
+After=network.target
+Documentation=https://github.com/EmbarkStudios/wg-ui
+
+[Service]
+ExecStart=wg-ui
+
+[Install]
+WantedBy=multi-user.target

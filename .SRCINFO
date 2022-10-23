@@ -1,0 +1,66 @@
+pkgbase = wg-ui
+	pkgdesc = A basic, self-contained management service for WireGuard with a self-serve web UI.
+	pkgver = 1.3.0
+	pkgrel = 1
+	url = https://github.com/EmbarkStudios/wg-ui
+	arch = x86_64
+	license = MIT
+	license = Apache
+	depends = wireguard-tools
+	source = https://github.com/EmbarkStudios/wg-ui/releases/download/v1.3.0/wg-ui-1.3.0-linux-amd64.tar.gz
+	source = wg-ui-1.3.0::git+https://github.com/EmbarkStudios/wg-ui#tag=v1.3.0
+	sha256sums = 6895fe666a42e13b8ccd1aa42254371015e80e73b932074a82de20f6ac5f7cab
+	sha256sums = SKIP
+
+pkgname = wg-ui
+pkgbase = wg-ui
+	pkgdesc = A basic, self-contained management service for WireGuard with a self-serve web UI.
+	pkgver = 1.3.0
+	pkgrel = 1
+	url = https://github.com/EmbarkStudios/wg-ui
+	arch = x86_64
+	license = MIT
+	license = Apache
+	depends = wireguard-tools
+	source = https://github.com/EmbarkStudios/wg-ui/releases/download/v1.3.0/wg-ui-1.3.0-linux-amd64.tar.gz
+	source = wg-ui.service
+	source = wg-ui-1.3.0::git+https://github.com/EmbarkStudios/wg-ui#tag=v1.3.0
+	sha256sums = 6895fe666a42e13b8ccd1aa42254371015e80e73b932074a82de20f6ac5f7cab
+	sha256sums = 76ebef67ca331d18ce6cf93dc0b28a85d75848748f3fcc82b0c08f49cda44c92
+	sha256sums = SKIP
+
+pkgname = wg-ui
+pkgbase = wg-ui
+	pkgdesc = A basic, self-contained management service for WireGuard with a self-serve web UI.
+	pkgver = 1.3.0
+	pkgrel = 1
+	url = https://github.com/EmbarkStudios/wg-ui
+	arch = x86_64
+	license = MIT
+	license = Apache
+	depends = wireguard-tools
+	source = https://github.com/EmbarkStudios/wg-ui/releases/download/v1.3.0/wg-ui-1.3.0-linux-amd64.tar.gz
+	source = wg-ui.service
+	source = wg-ui-1.3.0::git+https://github.com/EmbarkStudios/wg-ui#tag=v1.3.0
+	sha256sums = 6895fe666a42e13b8ccd1aa42254371015e80e73b932074a82de20f6ac5f7cab
+	sha256sums = 7326863c3f2767727d73a7e0410c981a8ca3d0fc2827dc5038fbc89e93194b0f
+	sha256sums = SKIP
+
+pkgname = wg-ui
+pkgbase = wg-ui
+	pkgdesc = A basic, self-contained management service for WireGuard with a self-serve web UI.
+	pkgver = 1.3.0
+	pkgrel = 1
+	url = https://github.com/EmbarkStudios/wg-ui
+	arch = x86_64
+	license = MIT
+	license = Apache
+	depends = wireguard-tools
+	source = https://github.com/EmbarkStudios/wg-ui/releases/download/v1.3.0/wg-ui-1.3.0-linux-amd64.tar.gz
+	source = wg-ui.service
+	source = wg-ui-1.3.0::git+https://github.com/EmbarkStudios/wg-ui#tag=v1.3.0
+	sha256sums = 6895fe666a42e13b8ccd1aa42254371015e80e73b932074a82de20f6ac5f7cab
+	sha256sums = 2b55c39253a55ae63e6d487a6515cc7e8969ee475723698ac75344b77de97e62
+	sha256sums = SKIP
+
+pkgname = wg-ui
